@@ -1,7 +1,7 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-10-food-service",
   "version": "1.1.0",
-  "description": "",
+  "description": "JavaScript. Домашняя работа №10 в GoIT",
   "main": "index.js",
   "homepage": "https://pavlooliinyk.github.io/goit-js-hw-10-food-service",
   "scripts": {
